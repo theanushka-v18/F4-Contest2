@@ -1,6 +1,5 @@
 import { useState } from "react";
-import Profile from "./Profile";
-import "./app.css";
+import "./App.css";
 
 const tokenIdArr = [];
 
